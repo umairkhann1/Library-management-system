@@ -8,6 +8,9 @@ lib = Library()
 b1 = Book("Python", "Ali")
 b2 = Book("AI", "Sara")
 b3 = Book("maths", "khan")
+b4 = Book("physics", "jhon")
+b5 = Book("programming", "david")
+
 
 lib.add_book(b1)
 lib.add_book(b2)
