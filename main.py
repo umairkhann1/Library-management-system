@@ -16,6 +16,7 @@ lib.add_book(b1)
 lib.add_book(b2)
 lib.add_book(b3)
 lib.add_book(b5)
+lib.add_book(b4)
 
 
 u1 = User("Umair")
